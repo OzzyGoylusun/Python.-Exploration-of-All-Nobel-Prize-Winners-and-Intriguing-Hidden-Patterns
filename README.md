@@ -53,7 +53,9 @@ female_winners = nobel_winners_df[nobel_winners_df['sex'] == 'Female'].groupby([
                                                                                 'category']).agg({"prize":"count"})
 ```
 
-In addition, the code below helped me clear out the blurry lines between a Pandas Series and DataFrames where each one of those have a different set of functions and methods:
+In addition, the code below helped me clear out the blurry lines between a Pandas Series and DataFrames where each one of those have a different set of functions and methods.
+
+By resorting to an integer-based indexing on my Pandas DataFrame, I was able to fetch what I required as below:
 
 ```python
 top_birth_country = nobel_winners_df["birth_country"].value_counts().reset_index().iloc[0,0]
