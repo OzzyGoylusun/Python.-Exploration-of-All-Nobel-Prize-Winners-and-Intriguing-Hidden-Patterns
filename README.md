@@ -33,7 +33,7 @@ The dataset used for this analysis is the *"nobel_dataset.csv"* file, containing
 Only *the nobel_dataset.csv* dataset was first inspected and then imported into a Pandas DataFrame to begin conducting the exploratory data analysis work:
 
 
-### Exploratory Data Analysis (EDA)
+### Exploratory Data Analysis
 
 EDA involved exploring the nobel prize data to answer key questions, such as:
 
