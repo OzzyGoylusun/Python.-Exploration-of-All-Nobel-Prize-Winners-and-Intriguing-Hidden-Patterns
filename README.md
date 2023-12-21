@@ -10,9 +10,7 @@ This data analysis project conducted via **Python** is intended to identify undi
  alt="Alfred Nobel">
 </p>
 
-
-Awards are bestowed in chemistry, literature, physics, physiology or medicine, economics, and peace. 
-Made available by the Nobel Foundation, the analysed data includes all prize winners from 1901 to 2023.
+Made available by the Nobel Foundation, the analysed data includes all prize winners from 1901 to 2023. In this regard, awards are bestowed in chemistry, literature, physics, physiology or medicine, economics, and peace. 
 
 
 ### Data Sources
