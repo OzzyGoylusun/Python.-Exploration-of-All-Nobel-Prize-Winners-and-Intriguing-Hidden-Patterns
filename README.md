@@ -11,8 +11,12 @@
 
 This data analysis project conducted via **Python** is intended to identify undiscovered patterns by exploring Nobel Prize winner data. 
 
-<align=center>
-![Nobel_Prize](https://github.com/OzzyGoylusun/Python-Identifying-and-Visualising-Nobel-Prize-Winners/assets/152992554/9299327c-6d21-48a6-9433-13ddeec572c6)
+<p align="center">
+  <img src="https://github.com/OzzyGoylusun/Python.-Identifying-and-Visualising-Nobel-Prize-Winners/blob/main/Nobel_Prize.png")
+ alt="Alfred Nobel">
+</p>
+
+
 
 
 Awards are bestowed in chemistry, literature, physics, physiology or medicine, economics, and peace. 
