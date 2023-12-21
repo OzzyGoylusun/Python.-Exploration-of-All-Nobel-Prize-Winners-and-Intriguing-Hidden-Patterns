@@ -82,7 +82,7 @@ The critical analysis results are summarised as follows:
 
 ### Limitations
 
-The presumption is that the dataset provided by DataCamp encompasses all Nobel Prize winners.
+The presumption is that the dataset provided by DataCamp encompasses all Nobel Prize winners up to date.
 
 ### References
 
