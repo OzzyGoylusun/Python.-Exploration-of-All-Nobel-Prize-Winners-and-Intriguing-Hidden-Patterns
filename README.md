@@ -11,6 +11,9 @@
 
 This data analysis project conducted via **Python** is intended to identify undiscovered patterns by exploring Nobel Prize winner data. 
 
+![Nobel_Prize](https://github.com/OzzyGoylusun/Python-Identifying-and-Visualising-Nobel-Prize-Winners/assets/152992554/9299327c-6d21-48a6-9433-13ddeec572c6)
+
+
 Awards are bestowed in chemistry, literature, physics, physiology or medicine, economics, and peace. 
 Made available by the Nobel Foundation, the analysed data includes all prize winners from the beginning of all awards being granted from 1901 to 2023.
 
