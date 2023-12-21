@@ -40,9 +40,9 @@ EDA involved exploring the nobel prize data to answer key questions, such as:
 
 1.  What has been the most commonly awarded gender and birth country up to date?
 2.  What has been the proportion of US-born winners per decade?
-3.  What has been the proportion of female laureates
-
-
+3.  What has been the proportion of female laureates per decade and category?
+4.  Who was the first woman to receive a Nobel Prize, and in what category?
+5.  Which individuals and organisations have won the Prize for more than once?
 
 
 ### Data Analysis
