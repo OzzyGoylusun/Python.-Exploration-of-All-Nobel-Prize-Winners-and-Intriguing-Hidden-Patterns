@@ -1,11 +1,5 @@
 # Python: Identifying and Visualising All Nobel Prize Winners
 
-## Table of Contents
-
-- [Exploratory Data Analysis](#exploratory-data-analysis)
-- [Findings](#findings)
-
-
 ### Project Overview
 ---
 
