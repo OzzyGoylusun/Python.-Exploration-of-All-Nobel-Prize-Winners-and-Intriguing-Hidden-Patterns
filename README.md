@@ -17,8 +17,6 @@ This data analysis project conducted via **Python** is intended to identify undi
 </p>
 
 
-
-
 Awards are bestowed in chemistry, literature, physics, physiology or medicine, economics, and peace. 
 Made available by the Nobel Foundation, the analysed data includes all prize winners from the beginning of all awards being granted from 1901 to 2023.
 
