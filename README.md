@@ -5,20 +5,14 @@
 - [Exploratory Data Analysis](#exploratory-data-analysis)
 - [Findings](#findings)
 
+
 ### Project Overview
 ---
 
-This SQL data analysis project aims to provide insights into the sales performance of small Brazilian e-commerce companies who processed orders via the largest department store in Brazil, **Olist**, over the years 2016, 2017 and 2018.
+This data analysis project conducted via **Python** is intended to identify undiscovered patterns by exploring Nobel Prize winner data. 
 
-The following four aspects were taken into account while extracting the insights:
-
-1. Order Analysis (OA)
-2. Customer Analysis (CA)
-3. Vendor Analysis (VA)
-4. Payment Analysis (PA)
-
-By analyzing the data from these lenses, the project is intended to identify trends, gaps and assists these firms with making data-driven recommendations while gaining a deeper understanding of the overall Brazilian e-commerce atmosphere.
-
+Awards are bestowed in chemistry, literature, physics, physiology or medicine, economics, and peace. 
+Made available by the Nobel Foundation, the analysed data includes all prize winners from the beginning of all awards being granted from 1901 to 2023.
 
 
 ### Data Sources
