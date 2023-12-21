@@ -1,4 +1,4 @@
-# Python-Identifying-and-Visualising-Nobel-Prize-Winners
+# Python:-Identifying-and-Visualising-Nobel-Prize-Winners
 
 ## Table of Contents
 
@@ -39,7 +39,8 @@ Only *the nobel.csv* dataset was first inspected and imported into a Pandas Data
 EDA involved exploring the nobel prize data to answer key questions, such as:
 
 1.  What has been the most commonly awarded gender and birth country up to date?
-2.  
+2.  What has been the proportion of US-born winners per decade?
+3.  What has been the proportion of female laureates
 
 
 
