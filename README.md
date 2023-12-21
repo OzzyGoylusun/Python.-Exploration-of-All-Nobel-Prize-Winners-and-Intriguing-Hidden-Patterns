@@ -11,6 +11,7 @@
 
 This data analysis project conducted via **Python** is intended to identify undiscovered patterns by exploring Nobel Prize winner data. 
 
+<align=center>
 ![Nobel_Prize](https://github.com/OzzyGoylusun/Python-Identifying-and-Visualising-Nobel-Prize-Winners/assets/152992554/9299327c-6d21-48a6-9433-13ddeec572c6)
 
 
@@ -20,25 +21,27 @@ Made available by the Nobel Foundation, the analysed data includes all prize win
 
 ### Data Sources
 
- the primary dataset used for this analysis is the "olist_orders_dataset.csv" file, containing detailed information about orders processed by a number of companies.
+The dataset used for this analysis is the "nobel.csv" file, containing detailed information about each award winner up to date ever since the Prize was established.
 
 ### Tools
 
-- 
+- [Anaconda Navigator: ](https://www.anaconda.com/download)
+  - To access the Jupyter Notebook
 
 
 ### Data Preparation
 
-In the initial data preparation phase, I performed the following tasks:
+Only *the nobel.csv* dataset was first inspected and imported into a Pandas DataFrame to begin conducting the exploratory data analysis:
 
-1. Database creation from scratch
-2. Tables creation, including assignment of primary and foreign keys
-3. Plotting of an entity-relationship diagram (ERD)
-4. Data import and inspection
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the commercial data to answer some key questions, including but not limited to:
+EDA involved exploring the nobel prize data to answer key questions, such as:
+
+1.  What has been the most commonly awarded gender and birth country up to date?
+2.  
+
+
 
 
 ### Data Analysis
