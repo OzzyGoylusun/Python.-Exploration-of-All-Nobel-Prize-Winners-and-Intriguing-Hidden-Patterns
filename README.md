@@ -3,7 +3,7 @@
 ### Project Overview
 ---
 
-This data analysis project conducted via **Python** is intended to identify undiscovered patterns by exploring Nobel Prize winner data. 
+This data analysis project conducted via **Python** is intended to identify undiscovered patterns by exploring some intriguing Nobel Prize winner data. 
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python.-Identifying-and-Visualising-Nobel-Prize-Winners/blob/main/Nobel_Prize.png")
