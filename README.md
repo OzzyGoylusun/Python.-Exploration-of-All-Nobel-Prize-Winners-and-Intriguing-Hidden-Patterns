@@ -35,7 +35,7 @@ Only *the nobel_dataset.csv* dataset was first inspected and then imported into 
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the nobel prize data to answer key questions, such as:
+EDA involved exploring the Nobel Prize data to answer key questions, such as:
 
 1.  What has been the most commonly awarded gender and birth country up to date?
 2.  What has been the proportion of US-born winners per decade?
