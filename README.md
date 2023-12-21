@@ -17,7 +17,7 @@ Made available by the Nobel Foundation, the analysed data includes all prize win
 
 ### Data Sources
 
-The dataset used for this analysis is the *"nobel.csv"* file, containing detailed information about each award winner up to date ever since the Prize was established.
+The dataset used for this analysis is the *"nobel_dataset.csv"* file, containing detailed information about each award winner up to date ever since the Prize was established.
 
 ### Tools
 
@@ -27,7 +27,7 @@ The dataset used for this analysis is the *"nobel.csv"* file, containing detaile
 
 ### Data Preparation
 
-Only *the nobel.csv* dataset was first inspected and imported into a Pandas DataFrame to begin conducting the exploratory data analysis:
+Only *the nobel_dataset.csv* dataset was first inspected and imported into a Pandas DataFrame to begin conducting the exploratory data analysis:
 
 
 ### Exploratory Data Analysis
