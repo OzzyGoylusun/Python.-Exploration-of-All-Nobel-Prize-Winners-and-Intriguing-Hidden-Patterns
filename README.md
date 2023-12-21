@@ -1,4 +1,4 @@
-# Python:-Identifying-and-Visualising-Nobel-Prize-Winners
+# Python: Identifying and Visualising All Nobel Prize Winners
 
 ## Table of Contents
 
