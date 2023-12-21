@@ -61,15 +61,18 @@ top_birth_country = nobel_winners_df["birth_country"].value_counts().reset_index
 The critical analysis results are summarised as follows:
 
 1. The most commonly awarded gender and top birth country of the award winners respectively turn out to be **Male** and **the United States of America.**
+   
 2. The proportion of US-born award winners till 2000 was in a gradual uptrend, peaking at slightly higher than **the 0.4 ratio**, before dipping by nearly **25%** during 2000s.
-  <p align="center">
-  <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Hidden-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Trend%20of%20US-born%20Winners%20per%20Decade.png" alt="Trend of US-born Winners per Decade">
-  </p>
-4. **Female award winners** have almost entirely dominated the disciplines of **Peace and Literature** as of the 2000s.
-  <p align="center">
-    <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Hidden-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Trend%20of%20Female%20Winners%20per%20Decade%20and%20Category.png" alt="Trend of Female Winners per Decade and Category">
-  </p>
-5. **Marie Curie**, née Sklodowska was the first woman to receive a Nobel Prize in the category of **Physics**.
+<p align="center">
+<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Hidden-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Trend%20of%20US-born%20Winners%20per%20Decade.png" alt="Trend of US-born Winners per Decade">
+</p>
+  
+3. **Female award winners** have almost entirely dominated the disciplines of **Peace and Literature** as of the 2000s.
+<p align="center">
+<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Hidden-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Trend%20of%20Female%20Winners%20per%20Decade%20and%20Category.png" alt="Trend of Female Winners per Decade and Category">
+</p>
+
+4. **Marie Curie**, née Sklodowska was the first woman to receive a Nobel Prize in the category of **Physics**.
 
 
 ### Limitations
