@@ -65,7 +65,7 @@ top_birth_country = nobel_winners_df["birth_country"].value_counts().reset_index
 
 The critical analysis results are summarised as follows:
 
-1. The most commonly awarded gender and top birth country of the award winners respectively turn out to be **Male** and **the United States of America.**
+1. The most commonly awarded gender and top birth country of the award winners turn out to be **Male** and **the United States of America** respectively.
    
 2. The proportion of US-born award winners till 2000 was in a gradual uptrend, peaking at slightly higher than **the 0.4 ratio**, before dipping by nearly **25%** during 2000s.
 <p align="center">
