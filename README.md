@@ -43,8 +43,18 @@ EDA involved exploring the nobel prize data to answer key questions, such as:
 
 ### Data Analysis
 
-```python
+The following code helped me consolidate my knowledge in subsetting, filtering and then grouping the resulting subset by two separate categories for a count-type aggregate operation:
 
+```python
+female_winners = nobel_winners_df[nobel_winners_df['sex'] == 'Female'].groupby(['decade',
+                                                                                'category']).agg({"prize":"count"})
+```
+
+Apart from that 
+
+```python
+top_birth_country = nobel_winners_df["birth_country"].value_counts().reset_index().rename(columns={
+    'index':'birth_country', 'birth_country':'count'}).iloc[0,0]
 ```
 
 ### Findings
