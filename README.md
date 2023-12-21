@@ -57,7 +57,7 @@ EDA involved exploring the nobel prize data to answer key questions, such as:
 
 The critical analysis results are summarised as follows:
 
-1. The most commonly awarded gender and birth country of the award winners respectively turn out to be **male** and **the United States of America.**
+1. The most commonly awarded gender and birth country of the award winners respectively turn out to be **Male** and **the United States of America.**
 2. The proportion of US-born award winners till 2000 was in a gradual uptrend, peaking at slightly higher than **the 0.7 ratio**, before dipping by roughly **33%** during 2000s.
 3. Female award winners have almost entirely dominated the disciplines of **Peace and Literature** as of the 2000s.
 4. **Marie Curie**, née Sklodowska was the first woman to receive a Nobel Prize in the category of **Physics**.
