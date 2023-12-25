@@ -87,7 +87,7 @@ The presumption is that the dataset provided by DataCamp encompasses all Nobel P
 ### References
 
 1. [DataCamp](https://www.datacamp.com/)
-2. [GeeksforGeeks: Use of Cut Function](https://www.geeksforgeeks.org/pandas-cut-method-in-python/)
+2. [GeeksforGeeks: Use of Cut Function on Python](https://www.geeksforgeeks.org/pandas-cut-method-in-python/)
 3. [Pandas DataFrame: Use of iLoc](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html)
 4. [Seaborn Library: Visualising a Lineplot](https://seaborn.pydata.org/generated/seaborn.lineplot.html)
 
