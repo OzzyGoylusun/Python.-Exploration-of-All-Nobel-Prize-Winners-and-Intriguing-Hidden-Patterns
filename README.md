@@ -11,7 +11,7 @@
 This data analysis project conducted via **Python** is intended to identify undiscovered patterns by exploring some intriguing Nobel Prize winner data. 
 
 <p align="center">
-  <img src="https://github.com/OzzyGoylusun/Python.-Identifying-and-Visualising-Nobel-Prize-Winners/blob/main/Nobel_Prize.png"
+  <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Nobel%20Prize%20Image.png"
  alt="Alfred Nobel">
 </p>
 
@@ -69,12 +69,12 @@ The critical analysis results are summarised as follows:
    
 2. The proportion of **US-born award winners** till 2000 was in a gradual uptrend, peaking at slightly higher than **the 0.4 ratio**, before dipping by nearly **25%** during early 2000s:
 <p align="center">
-<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Hidden-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Trend%20of%20US-born%20Winners%20per%20Decade.png" alt="Trend of US-born Winners per Decade">
+<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Trend%20of%20US-born%20Winners%20per%20Decade.png" alt="Trend of US-born Winners per Decade">
 </p>
   
 3. **Female award winners** have almost entirely dominated the disciplines of **Peace and Literature** as of the 2000s:
 <p align="center">
-<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Hidden-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Trend%20of%20Female%20Winners%20per%20Decade%20and%20Category.png" alt="Trend of Female Winners per Decade and Category">
+<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Trend%20of%20Female%20Winners%20per%20Decade%20and%20Category.png" alt="Trend of Female Winners per Decade and Category">
 </p>
 
 4. **Marie Curie**, née Sklodowska was the first woman to receive a Nobel Prize in the category of **Physics**.
