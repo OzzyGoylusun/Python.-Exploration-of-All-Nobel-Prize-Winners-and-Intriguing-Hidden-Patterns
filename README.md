@@ -25,7 +25,7 @@ The dataset used for this analysis is the *"nobel_dataset.csv"* file, containing
 ### Tools
 
 - [Anaconda Navigator: ](https://www.anaconda.com/download)
-  - To access the Jupyter Notebook or **Python**
+  - To access the Jupyter Notebook for **Python**
 
 
 ### Data Preparation
