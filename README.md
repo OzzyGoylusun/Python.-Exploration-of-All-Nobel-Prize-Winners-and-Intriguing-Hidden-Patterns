@@ -1,4 +1,4 @@
-# Python- Identifying Hidden Patterns and Visualising All Nobel Prize Winners
+# Identifying Hidden Patterns and Visualising All Nobel Prize Winners
 
 ## Table of Contents
 
