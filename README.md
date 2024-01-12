@@ -8,7 +8,7 @@
 ### Project Overview
 ---
 
-This data analysis project conducted via **Python** is intended to identify undiscovered patterns by exploring some intriguing Nobel Prize winner data.
+The Nobel Prize is perhaps the most recognized scientific prize in the world. Accordingly, this data analysis project conducted in **Python** is intended to identify undiscovered patterns by exploring some intriguing Nobel Prize winner data.
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Nobel%20Prize%20Image.png"
