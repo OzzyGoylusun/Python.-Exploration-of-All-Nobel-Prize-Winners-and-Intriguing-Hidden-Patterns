@@ -8,14 +8,16 @@
 ### Project Overview
 ---
 
-The Nobel Prize is perhaps the most recognized scientific prize in the world. Accordingly, this data analysis project conducted in **Python** is intended to examine all the Nobel Prize Winners identify undiscovered patterns by exploring some intriguing Nobel Prize winner data.
+The Nobel Prize is perhaps the most recognized scientific prize ever in the world. In this regard, awards are each year bestowed in the areas of Medicine, Chemistry, Physics, Economics, Literature and Peace.
+
+Accordingly, this data analysis project conducted in **Python** is intended to examine all the Nobel Prize winners up to date in an attempt to identify and explore undiscovered patterns hidden in the dataset provided.
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Nobel%20Prize%20Image.png"
  alt="Alfred Nobel">
 </p>
 
-Made available by the Nobel Foundation, the analysed data includes all prize winners from 1901 to 2023. In this regard, awards are bestowed in chemistry, literature, physics, physiology or medicine, economics, and peace. 
+Made available by the Nobel Foundation, the analysed data uncovers all prize winners from 1901 all the way to 2023.
 
 
 ### Data Sources
