@@ -48,8 +48,8 @@ EDA involved exploring the Nobel Prize data to answer key questions, including b
 2.  Who was the first woman to receive a Nobel Prize, and in what category?
 3.  From which year did the country that has achieved the most Nobel Prizes up to date managed to establish its relentless dominance?
 4.  How does the visualisation of all Nobel Prize winners appear per award category, gender and decade?
-5.  During the Second World War era, how did the award distribution per category and country look?
-6.  During the Cold War era, how did the award distribution of each country per category look?
+5.  During **the Second World War**, how did the award distribution per category and country look?
+6.  During **the Cold War**, how did the award distribution of each country per category look?
 
 
 ### Data Analysis
