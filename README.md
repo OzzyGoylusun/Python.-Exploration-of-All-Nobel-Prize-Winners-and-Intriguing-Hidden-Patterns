@@ -91,13 +91,13 @@ The critical analysis results are summarised as follows:
 5. Statistically speaking, the **Peace** field has so far experienced the widest age range of Nobel Prize winners alongside with achieving the highest ***female:male ratio** dominance against the other female winners in other categories:
 
 <p align="center">
-<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/NP%20Peace%20Award%20Distribution%20per%20Age%2C%20Gender%20and%20Decade.png" alt="Peace Winners per Age, Gender and Decade" width="750">
+<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/NP%20Peace%20Award%20Distribution%20per%20Age%2C%20Gender%20and%20Decade.png" alt="Peace Winners per Age, Gender and Decade" width="1000">
 </p>
 
 On the other hand, ***
 
 <p align="center">
-<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/NP%20Economics%20Award%20Distribution%20per%20Age%2C%20Gender%20and%20Decade.png" alt="Economy Winners per Age, Gender and Decade" width="750">
+<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/NP%20Economics%20Award%20Distribution%20per%20Age%2C%20Gender%20and%20Decade.png" alt="Economy Winners per Age, Gender and Decade" width="1000">
 </p>
 
 
