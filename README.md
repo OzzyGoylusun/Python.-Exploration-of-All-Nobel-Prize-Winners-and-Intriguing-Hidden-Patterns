@@ -1,4 +1,4 @@
-# Identifying Hidden Patterns and Visualising All Nobel Prize Winners
+# Exploration of All Nobel Prize Winners and Identifying Hidden Patterns
 
 ## Table of Contents
 
