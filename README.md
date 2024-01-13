@@ -36,19 +36,20 @@ The following data preparation and preprocessing tasks were undertaken:
 
 1. The *nobel_dataset.csv* dataset was first inspected and then imported into two separate Pandas DataFrames.
 2. NaN/non-existing values of certain records within particular columns were removed in one DataFrame.
-3. No other operations than removing out-of-scope columns tasked to the other DataFrame were undertaken.
-4. A column named *Decade* was formed to be able to classify prize winners as per each 10-year period.
+3. An overhaul dictionary was designed to replace countries' former names with their current names, owing to political reasons and relevancy.
+4. A column named *Decade* was formed to be able to classify prize winners as per a 10-year period.
 
 
 ### Exploratory Data Analysis
 
-EDA involved exploring the Nobel Prize data to answer key questions, such as:
+EDA involved exploring the Nobel Prize data to answer key questions, including but not limited to:
 
-1.  Which has been the most commonly awarded gender and top birth country up to date?
-2.  What has been the proportion of US-born winners per decade?
-3.  What has been the proportion of female laureates per decade and category?
-4.  Who was the first woman to receive a Nobel Prize, and in what category?
-5.  Which individuals/organisations have won the Prize multiple times?
+1.  Which 10 countries have secured the Nobel Prize most up to date, and how many times?
+2.  Who was the first woman to receive a Nobel Prize, and in what category?
+3.  From which year did the country that has achieved the most Nobel Prizes up to date managed to establish its relentless dominance?
+4.  How does the visualisation of all Nobel Prize winners appear per award category, gender and decade?
+5.  During the Second World War era, how did the award distribution per category and country look?
+6.  During the Cold War era, how did the award distribution of each country per category look?
 
 
 ### Data Analysis
