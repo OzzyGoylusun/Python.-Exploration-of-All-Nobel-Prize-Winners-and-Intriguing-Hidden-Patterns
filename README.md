@@ -46,7 +46,7 @@ EDA involved exploring the Nobel Prize data to answer key questions, including b
 
 1.  Which 10 countries have secured the Nobel Prize most up to date, and how many times?
 2.  Who was the first woman to receive a Nobel Prize, and in what category?
-3.  From which year did the country that has achieved the most Nobel Prizes up to date managed to establish its relentless dominance?
+3.  From which year did the country that has achieved the most Nobel Prizes up to date managed to establish dominance?
 4.  How does the visualisation of all Nobel Prize winners appear per award category, gender and decade?
 5.  During **the Second World War**, how did the award distribution per category and country look?
 6.  During **the Cold War**, how did the award distribution of each country per category look?
@@ -73,19 +73,27 @@ top_birth_country = nobel_winners_df["birth_country"].value_counts().reset_index
 
 The critical analysis results are summarised as follows:
 
-1. The most commonly awarded gender and top birth country of the award winners turn out to be **Male** and **the United States of America** respectively.
+1. **The United States (US)** has come out on top by thus far winning the most Nobel Prizes by far, followed by the UK, Germany, France, Sweden and Russia.
+
+2. **The US** managed to establish its relentless dominanc in terms of winning more and more Nobels, **as of 1930s and onwards** due to a variety of factors, including the academic freedom and expanding budget expenditure in scientific endeavours as well as a strong focus on meritocracy:
+
+<p align="center">
+<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/US%20Dominance%20as%20of%201930s%20and%20onwards.png" alt="US Dominance as of 1930s" width="650">
+</p>
+  
+ 
    
-2. The proportion of **US-born award winners** till 2000 was in a gradual uptrend, peaking at slightly higher than **the 0.4 ratio**, before dipping by nearly **25%** during early 2000s:
+4. The proportion of **US-born award winners** till 2000 was in a gradual uptrend, peaking at slightly higher than **the 0.4 ratio**, before dipping by nearly **25%** during early 2000s:
 <p align="center">
 <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Trend%20of%20US-born%20Winners%20per%20Decade.png" alt="Trend of US-born Winners per Decade" width="650">
 </p>
   
-3. **Female award winners** have almost entirely dominated the disciplines of **Peace and Literature** as of the 2000s:
+4. **Female award winners** have almost entirely dominated the disciplines of **Peace and Literature** as of the 2000s:
 <p align="center">
 <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Trend%20of%20Female%20Winners%20per%20Decade%20and%20Category.png" alt="Trend of Female Winners per Decade and Category" width="650">
 </p>
 
-4. **Marie Curie**, née Sklodowska was the first woman to receive a Nobel Prize in the category of **Physics**.
+5. **Marie Curie**, née Sklodowska was the first woman to receive a Nobel Prize in the category of **Physics**.
 
 
 ### Limitations
