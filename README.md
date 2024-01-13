@@ -75,10 +75,10 @@ The critical analysis results are summarised as follows:
 
 1. **The United States (US)** has come out on top by thus far winning the most Nobel Prizes by far, followed by the UK, Germany, France, Sweden and Russia.
 
-2. **The US** managed to establish its relentless dominanc in terms of winning more and more Nobels, **as of 1930s and onwards** due to a variety of factors, including the academic freedom and expanding budget expenditure in scientific endeavours as well as a strong focus on meritocracy:
+2. **The US** managed to establish its relentless dominanc in terms of winning more and more Nobels, **as of 1930s and onwards** due to a variety of factors, including the academic freedom and expanding budget expenditure in scientific R&D endeavours as well as a strong focus on meritocracy:
 
 <p align="center">
-<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/US%20Dominance%20as%20of%201930s%20and%20onwards.png" alt="US Dominance as of 1930s" width="650">
+<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/US%20Dominance%20as%20of%201930s%20and%20onwards.png" alt="US Dominance as of 1930s" width="850">
 </p>
   
  
