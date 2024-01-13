@@ -73,7 +73,7 @@ top_birth_country = nobel_winners_df["birth_country"].value_counts().reset_index
 
 The critical analysis results are summarised as follows:
 
-1. **Marie Curie**, née Sklodowska was the first woman to receive a Nobel Prize in the category of **Physics**.
+1. **Marie Curie** was the first woman to receive a Nobel Prize in **Physics**.
 
 2. **The United States (US)** has come out on top by thus far winning the most Nobel Prizes by far, followed by the UK, Germany, France, Sweden and Russia.
 
