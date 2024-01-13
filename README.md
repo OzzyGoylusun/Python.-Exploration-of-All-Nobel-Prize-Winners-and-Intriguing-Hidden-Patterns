@@ -30,9 +30,12 @@ The dataset used for this analysis is the *"nobel_dataset.csv"* file, containing
   - To access the Jupyter Notebook for **Python**
 
 
-### Data Preparation
+### Data Preparation and Preprocessing
 
-Only *the nobel_dataset.csv* dataset was first inspected and then imported into a Pandas DataFrame to begin conducting the exploratory data analysis work:
+The following data preparation and preprocessing tasks were undertaken:
+
+1. *the nobel_dataset.csv* dataset was first inspected and then imported into two separate Pandas DataFrames
+2. 
 
 
 ### Exploratory Data Analysis
