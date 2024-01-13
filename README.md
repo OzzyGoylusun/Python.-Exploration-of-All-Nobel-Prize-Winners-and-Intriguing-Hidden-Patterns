@@ -102,7 +102,7 @@ For instance, except for the French-American economist, Esther Duflo, there is n
 <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/NP%20Economics%20Award%20Distribution%20per%20Age%2C%20Gender%20and%20Decade.png" alt="Economy Winners per Age, Gender and Decade" width="1000">
 </p>
 
-6. Surrounding **the Second World War**, most Nobel Prizes were awarded respectively in the fields of Medicine, Chemistry and Physics.
+6. Surrounding **the Second World War**, most Nobel Prizes were awarded respectively in the fields of Medicine, Chemistry and Physics. I argue that the underlying reason could be that war efforts naturally demand most research and innovation in these three areas considering the war economics.
 
 <p align="center">
 <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Distribution%20of%20NP%20Categories%20during%20the%202nd%20World%20War.png" alt="Dist of NP Categories during the World War II" width="650">
