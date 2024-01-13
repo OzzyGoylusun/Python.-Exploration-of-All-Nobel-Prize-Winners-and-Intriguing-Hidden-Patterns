@@ -75,17 +75,15 @@ The critical analysis results are summarised as follows:
 
 1. **The United States (US)** has come out on top by thus far winning the most Nobel Prizes by far, followed by the UK, Germany, France, Sweden and Russia.
 
-2. **The US** managed to establish its relentless dominanc in terms of winning more and more Nobels, **as of 1930s and onwards** due to a variety of factors, including the academic freedom and expanding budget expenditure in scientific R&D endeavours as well as a strong focus on meritocracy:
+2. **The US** managed to establish its relentless dominance in terms of winning more and more Nobels, **as of 1930s and onwards** due to a variety of factors, including the academic freedom and expanding budget expenditure in scientific R&D endeavours as well as a strong focus on meritocracy:
 
 <p align="center">
 <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/US%20Dominance%20as%20of%201930s%20and%20onwards.png" alt="US Dominance as of 1930s" width="750">
 </p>
   
- 
-   
-4. The proportion of **US-born award winners** till 2000 was in a gradual uptrend, peaking at slightly higher than **the 0.4 ratio**, before dipping by nearly **25%** during early 2000s:
+3. Linked to **Finding #2**, the proportion of **US-born award winners** till 2000 was in a gradual uptrend, peaking at slightly higher than **the 0.4 ratio**, before dipping by nearly **25%** during early 2000s:
 <p align="center">
-<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Trend%20of%20US-born%20Winners%20per%20Decade.png" alt="Trend of US-born Winners per Decade" width="650">
+<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Trend%20of%20US-born%20NP%20Laureates.png" alt="Trend of US-born Laureates per Decade" width="750">
 </p>
   
 4. **Female award winners** have almost entirely dominated the disciplines of **Peace and Literature** as of the 2000s:
