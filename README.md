@@ -105,13 +105,13 @@ For instance, except for the French-American economist, Esther Duflo, there is n
 6. Surrounding **the Second World War**, most Nobel Prizes were awarded respectively in the fields of Medicine, Chemistry and Physics.
 
 <p align="center">
-<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Distribution%20of%20NP%20Categories%20during%20the%202nd%20World%20War.png" alt="Dist of NP Categories during the World War II" width="1000">
+<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Distribution%20of%20NP%20Categories%20during%20the%202nd%20World%20War.png" alt="Dist of NP Categories during the World War II" width="650">
 </p>
 
 In addition, it was also identified that the most archrival heads of the World War II, **the US** and **Germany (Nazi Germany at the time)**, won the most Nobel Prizes during this era:
 
 <p align="center">
-<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Distribution%20of%20NP%20Winners'%20Birth%20Countries%20during%20the%202nd%20World%20War.png" alt="Dist of NP Winners' Birth Countries during the World War II" width="1000">
+<img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Distribution%20of%20NP%20Winners'%20Birth%20Countries%20during%20the%202nd%20World%20War.png" alt="Dist of NP Winners' Birth Countries during the World War II" width="650">
 </p>
 
 
