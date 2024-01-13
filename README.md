@@ -88,7 +88,7 @@ The critical analysis results are summarised as follows:
 <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Trend%20of%20US-born%20NP%20Laureates.png" alt="Trend of US-born Laureates per Decade" width="750">
 </p>
 
-5. Statistically speaking, the **Peace** field has so far experienced the widest age range of Nobel Prize winners alongside with achieving the highest ***female:male ratio** dominance against the other female winners in other categories:
+5. Statistically speaking, the **Peace** category has so far experienced the widest age range of Nobel Prize winners in this field alongside with achieving the highest ***female:male ratio** dominance by **17.1%** against the other female winners in other categories:
 
 <p align="center">
 <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/NP%20Peace%20Award%20Distribution%20per%20Age%2C%20Gender%20and%20Decade.png" alt="Peace Winners per Age, Gender and Decade" width="1000">
