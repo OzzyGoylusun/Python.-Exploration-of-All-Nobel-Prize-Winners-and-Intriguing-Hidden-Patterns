@@ -34,8 +34,10 @@ The dataset used for this analysis is the *"nobel_dataset.csv"* file, containing
 
 The following data preparation and preprocessing tasks were undertaken:
 
-1. *the nobel_dataset.csv* dataset was first inspected and then imported into two separate Pandas DataFrames
-2. 
+1. The *nobel_dataset.csv* dataset was first inspected and then imported into two separate Pandas DataFrames.
+2. NaN/non-existing values of certain records within particular columns were removed in one DataFrame.
+3. No other operations than removing out-of-scope columns tasked to the other DataFrame were undertaken.
+4. A column named *Decade* was formed to be able to classify prize winners as per each 10-year period.
 
 
 ### Exploratory Data Analysis
