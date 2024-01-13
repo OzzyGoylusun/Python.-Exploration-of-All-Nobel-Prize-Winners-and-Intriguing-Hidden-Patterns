@@ -94,7 +94,9 @@ The critical analysis results are summarised as follows:
 <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/NP%20Peace%20Award%20Distribution%20per%20Age%2C%20Gender%20and%20Decade.png" alt="Peace Winners per Age, Gender and Decade" width="1000">
 </p>
 
-On the other hand, once again statistically speaking, the **Economics** category has experienced the oldest age range of Nobel Prize winners in this field, alongside with one of the lowest **female-male** ratio. For instance, except for the French-American economist, Esther Duflo, there is no scientists/academics up to date **who are younger than 50 years old** and have yet been awarded a Nobel in this field.
+On the other hand, once again statistically speaking, the **Economics** category has experienced the oldest age range of Nobel Prize winners in this field, alongside with one of the lowest **female-male** ratio. 
+
+For instance, except for the French-American economist, Esther Duflo, there is no scientists/academics up to date **who are younger than 50 years old** and have yet been awarded a Nobel in this field.
 
 <p align="center">
 <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/NP%20Economics%20Award%20Distribution%20per%20Age%2C%20Gender%20and%20Decade.png" alt="Economy Winners per Age, Gender and Decade" width="1000">
