@@ -34,7 +34,7 @@ The dataset used for this analysis is the *"nobel_dataset.csv"* file, containing
 
 The following data preparation and preprocessing tasks were undertaken:
 
-1. The *"nobel_dataset.csv"* dataset was first inspected and then imported into two separate Pandas DataFrames.
+1. The dataset was first inspected and then imported into two separate Pandas DataFrames.
 2. NaN/non-existing values of certain records within particular columns were removed in one DataFrame.
 3. An overhaul dictionary was designed to replace countries' former names with their current names, owing to political reasons and relevancy.
 4. A column named *Decade* was formed to be able to classify prize winners as per a 10-year period.
