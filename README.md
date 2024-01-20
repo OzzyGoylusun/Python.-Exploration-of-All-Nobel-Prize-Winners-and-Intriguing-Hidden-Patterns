@@ -22,7 +22,7 @@ Made available by the Nobel Foundation, the analysed data uncovers all prize win
 
 ### Data Sources
 
-The dataset used for this analysis is the *"nobel_dataset.csv"* file, containing detailed information about each award winner up to date ever since the Prize was established.
+The dataset used for this analysis is the *"nobel_dataset.csv"* file, containing detailed information about each award winner up to date, ever since the Prize was established.
 
 ### Tools
 
