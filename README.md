@@ -139,11 +139,10 @@ In addition, it was also identified that the most archrival heads of the World W
 </p>
 
 
-
 ### Limitations
 
 - The presumption is that the dataset provided by DataCamp encompasses all Nobel Prize winners up to date.
-- Country analysis per Nobel Laureate takes into account each winner's birth country instead of the organisation country.
+- Country analysis per Nobel laureate takes into account each winner's birth country instead of the organisation country .
 
 ### References
 
