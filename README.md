@@ -10,7 +10,7 @@
 
 The Nobel Prize is perhaps the most recognized scientific prize ever in the world. In this regard, awards are each year bestowed in the areas of Medicine, Chemistry, Physics, Economics, Literature and Peace.
 
-Accordingly, this comprehensive data analysis project conducted in **Python** is intended to examine all the Nobel Prize winners to date in an attempt to identify and explore undiscovered patterns hidden in the dataset provided.
+Accordingly, this comprehensive data analysis project conducted in **Python** is intended to examine all the Nobel Prize winners to date in an attempt to identify and explore undiscovered patterns hidden in an overarching dataset in this respect.
 
 <p align="center">
   <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Nobel%20Prize%20Image.png"
