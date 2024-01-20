@@ -54,7 +54,7 @@ EDA involved exploring the Nobel Prize data to answer key questions, including b
 
 ### Data Analysis
 
-Designed to separate one-time female Nobel winners from the multiple female winners, the following code helped me consolidate my Pandas DataFrame knowledge in subsetting, looping and most importantly masking techniques.
+Designed to separate one-time female Nobel winners from the multiple ones, the following code helped me consolidate my Pandas DataFrame knowledge in subsetting, looping and most importantly masking techniques.
 
 ```python
 
