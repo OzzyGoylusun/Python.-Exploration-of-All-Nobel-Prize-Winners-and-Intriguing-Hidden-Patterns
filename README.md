@@ -139,5 +139,5 @@ In addition, it was also identified that the archrival heads of the World War II
 2. [GeeksforGeeks: Use of Cut Function on Python](https://www.geeksforgeeks.org/pandas-cut-method-in-python/)
 3. [Pandas DataFrame: Use of iLoc](https://pandas.pydata.org/docs/reference/api/pandas.DataFrame.iloc.html)
 4. [Seaborn Library: Visualising a Lineplot](https://seaborn.pydata.org/generated/seaborn.lineplot.html)
-5. [Matplotlib Library: Mastering Piecharts](https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html)
+5. [Matplotlib Library: Mastering Pie Charts](https://matplotlib.org/stable/gallery/pie_and_polar_charts/pie_features.html)
 
