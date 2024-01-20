@@ -86,7 +86,7 @@ first_all_female_winners = pd.concat([single_female_winners,
 
 The critical analysis results are summarised as follows:
 
-1. **Marie Curie** was the first woman to receive a Nobel Prize in **Physics**.
+1. **Marie Curie** was the first woman ever to receive a Nobel Prize in **Physics**.
 
 2. **The United States (US)** has come out on top by winning the most Nobel Prizes by far to date, followed by the UK, Germany, France, Sweden and Russia.
 
