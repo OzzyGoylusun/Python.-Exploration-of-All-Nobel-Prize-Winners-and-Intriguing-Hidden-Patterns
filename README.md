@@ -44,7 +44,7 @@ The following data preparation and preprocessing tasks were undertaken:
 
 EDA involved exploring the Nobel Prize data to answer key questions, including but not limited to:
 
-1. Who was **the first woman** to receive a Nobel Prize, and in what category?
+1. Who was **the first woman** ever to receive a Nobel Prize, and in what category?
 2. **Which 10 countries** have secured a Nobel Prize most up to date, and how many times?
 3. **From which year** did the country that has achieved the most Nobel Prizes up to date manage **to establish dominance**?
 4. How does the visualisation of all Nobel Prize winners appear per **award category, gender and decade**?
@@ -88,7 +88,7 @@ The critical analysis results are summarised as follows:
 
 1. **Marie Curie** was the first woman to receive a Nobel Prize in **Physics**.
 
-2. **The United States (US)** has come out on top by thus far winning the most Nobel Prizes by far, followed by the UK, Germany, France, Sweden and Russia.
+2. **The United States (US)** has come out on top by winning the most Nobel Prizes by far to date, followed by the UK, Germany, France, Sweden and Russia.
 
 3. Owing to a variety of factors, including the academic freedom and expanding budget expenditure in scientific R&D endeavours as well as placing a strong focus on meritocracy, **the US** managed to establish its relentless dominance in terms of winning more and more Nobels, **as of 1930s and onwards** as follows:
 
