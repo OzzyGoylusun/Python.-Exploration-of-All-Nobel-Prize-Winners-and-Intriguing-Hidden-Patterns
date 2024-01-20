@@ -115,13 +115,13 @@ For instance, once again statistically speaking, except for the French-American 
 <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/NP%20Economics%20Award%20Distribution%20per%20Age%2C%20Gender%20and%20Decade.png" alt="Economy Winners per Age, Gender and Decade" width="1000">
 </p>
 
-6. Surrounding **the Second World War**, most Nobel Prizes were awarded respectively in the fields of Medicine, Chemistry and Physics. I argue that the underlying reason could be that war efforts would inherently demand and drive most research and innovation toward these three areas considering the war economics.
+6. Surrounding **the Second World War**, most Nobel Prizes were awarded respectively in the fields of Medicine, Chemistry and Physics. I argue that the underlying reason could be that war efforts did inherently demand and drive most research and innovation toward these three areas, considering the war economics.
 
 <p align="center">
 <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Distribution%20of%20NP%20Categories%20during%20the%202nd%20World%20War.png" alt="Dist of NP Categories during the World War II" width="650">
 </p>
 
-In addition, it was also identified that the most archrival heads of the World War II, **the US** and **Germany (Nazi Germany** at the time **)**, won the most Nobel Prizes during this era:
+In addition, it was also identified that the archrival heads of the World War II, **the US** and **Germany (Nazi Germany** at the time), won the most Nobel Prizes during this era:
 
 <p align="center">
 <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Distribution%20of%20NP%20Winners'%20Birth%20Countries%20during%20the%202nd%20World%20War.png" alt="Dist of NP Winners' Birth Countries during the World War II" width="650">
