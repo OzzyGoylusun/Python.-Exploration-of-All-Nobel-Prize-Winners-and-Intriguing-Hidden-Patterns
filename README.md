@@ -96,7 +96,7 @@ The critical analysis results are summarised as follows:
 <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/US%20Dominance%20as%20of%201930s%20and%20onwards.png" alt="US Dominance as of 1930s" width="650">
 </p>
   
-4. Linked to **Finding #2**, the proportion of **US-born award winners** till 2000 was in a gradual uptrend, peaking at slightly higher than **the 0.4 ratio**, before dipping by nearly **25%** during early 2000s:
+4. Linked to **Finding #2**, the proportion of **US-born award winners** till 2000 was observed to be in a gradual uptrend, peaking at slightly higher than **the 0.4 ratio**, before dipping by nearly **25%** during early 2000s:
 <p align="center">
 <img src="https://github.com/OzzyGoylusun/Python.-Identifying-Patterns-and-Visualising-Nobel-Prize-Winners/blob/main/Visuals/Trend%20of%20US-born%20NP%20Laureates.png" alt="Trend of US-born Laureates per Decade" width="650">
 </p>
