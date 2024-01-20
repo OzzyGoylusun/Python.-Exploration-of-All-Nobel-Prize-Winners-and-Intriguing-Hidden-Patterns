@@ -54,19 +54,43 @@ EDA involved exploring the Nobel Prize data to answer key questions, including b
 
 ### Data Analysis
 
-The following code helped me consolidate my knowledge in subsetting, filtering and then grouping the resulting subset by two separate categories for a count-type aggregate operation:
+Designed to separate one-time female Nobel winners from the multiple female winners, the following code helped me consolidate my knowledge in subsetting and mask techniques
 
 ```python
-female_winners = nobel_winners_df[nobel_winners_df['sex'] == 'Female'].groupby(['decade',
-                                                                                'category']).agg({"prize":"count"})
-```
 
-In addition, the code below helped me clear out the blurry lines between a Pandas Series and DataFrames where each one of those have a different set of functions and methods.
+# Identifying multiple female winners
 
-By resorting to an integer-based indexing on my Pandas DataFrame below, I was able to fetch what I required and assigned it to a variable:
+multiple_counter = female_nobel_df['full_name'].value_counts()
+multiple_female_winners = multiple_counter[multiple_counter > 1].index # This functions as our filter to identify multiple winners' names
 
-```python
-top_birth_country = nobel_winners_df["birth_country"].value_counts().reset_index().iloc[0,0]
+
+# Preparing a DataFrame including the first record of multiple winners
+
+multiple_female_nobel_df = female_nobel_df[female_nobel_df['full_name'].isin(multiple_female_winners)]
+
+
+# --- Bringing in only the first award record for multiple female award winners
+
+first_of_multiple_female_winners = pd.DataFrame()
+
+for female_winner_name in multiple_female_winners:
+    
+    enumerated_award_winner = multiple_female_nobel_df[(multiple_female_nobel_df['full_name'].str.contains(female_winner_name))]
+    enumerated_award_winner = enumerated_award_winner[enumerated_award_winner['year'] == enumerated_award_winner['year'].min()]
+    
+    first_of_multiple_female_winners = pd.concat([first_of_multiple_female_winners, enumerated_award_winner], axis=0, ignore_index=True)
+
+
+# Preparing a DataFrame which includes all winners being awarded this Prize only for once in their lifetime
+
+single_female_winners = female_nobel_df[~female_nobel_df['full_name'].isin(multiple_female_winners)]
+
+
+# Combining the two DataFrames by Axis-0
+
+first_all_female_winners = pd.concat([single_female_winners, 
+                 first_of_multiple_female_winners], axis=0).sort_values(by=['year']).reset_index(drop=True)
+
 ```
 
 ### Findings
