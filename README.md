@@ -45,7 +45,7 @@ The following data preparation and preprocessing tasks were undertaken:
 EDA involved exploring the Nobel Prize data to answer key questions, including but not limited to:
 
 1. Who was the first woman to receive a Nobel Prize, and in what category?
-2. Which 10 countries have secured the Nobel Prize most up to date, and how many times?
+2. Which 10 countries have secured a Nobel Prize most up to date, and how many times?
 3. From which year did the country that has achieved the most Nobel Prizes up to date managed to establish dominance?
 4. How does the visualisation of all Nobel Prize winners appear per award category, gender and decade?
 5. During **the Second World War**, how did the award distribution per category and country look?
