@@ -54,7 +54,7 @@ EDA involved exploring the Nobel Prize data to answer key questions, including b
 
 ### Data Analysis
 
-Designed to separate one-time female Nobel winners from the multiple female winners, the following code helped me consolidate my knowledge in subsetting and mask techniques
+Designed to separate one-time female Nobel winners from the multiple female winners, the following code helped me consolidate my knowledge in subsetting, looping and most importantly masking techniques.
 
 ```python
 
