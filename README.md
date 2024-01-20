@@ -58,18 +58,7 @@ Designed to separate one-time female Nobel winners from the multiple ones, the f
 
 ```python
 
-# Identifying multiple female winners
-
-multiple_counter = female_nobel_df['full_name'].value_counts()
-multiple_female_winners = multiple_counter[multiple_counter > 1].index # This functions as our filter to identify multiple winners' names
-
-
-# Preparing a DataFrame including the first record of multiple winners
-
-multiple_female_nobel_df = female_nobel_df[female_nobel_df['full_name'].isin(multiple_female_winners)]
-
-
-# --- Bringing in only the first award record for multiple female award winners
+# Bringing in only the first award record for multiple female award winners
 
 first_of_multiple_female_winners = pd.DataFrame()
 
