@@ -81,7 +81,7 @@ for female_winner_name in multiple_female_winners:
     first_of_multiple_female_winners = pd.concat([first_of_multiple_female_winners, enumerated_award_winner], axis=0, ignore_index=True)
 
 
-# Preparing a DataFrame which includes all winners being awarded this Prize only for once in their lifetime
+# Via the masking technique, preparing a DataFrame which includes all winners being awarded this Prize only for once in their lifetime
 
 single_female_winners = female_nobel_df[~female_nobel_df['full_name'].isin(multiple_female_winners)]
 
@@ -142,7 +142,7 @@ In addition, it was also identified that the most archrival heads of the World W
 ### Limitations
 
 - The presumption is that the dataset provided by DataCamp encompasses all Nobel Prize winners up to date.
-- Country analysis per Nobel laureate takes into account each winner's birth country instead of the organisation country .
+- Country analysis per Nobel laureate takes into account each winner's birth country instead of the organisation country that they worked under/for.
 
 ### References
 
